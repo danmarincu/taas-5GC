@@ -62,7 +62,7 @@
             <SUT>
                 <nodal_ts0_tc0>
                     <AmfSut pt:description="AMF - 0 - SUT">
-                        <name pt:description="10.202.100.1">10.223.142.22</name>
+                        <name pt:description="10.202.100.1">10.223.142.21</name>
                     </AmfSut>
                 </nodal_ts0_tc0>
             </SUT>
