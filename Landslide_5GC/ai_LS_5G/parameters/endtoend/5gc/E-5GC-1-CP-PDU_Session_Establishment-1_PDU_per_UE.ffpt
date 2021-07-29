@@ -76,7 +76,7 @@
             <SUT>
                 <nodal_ts0_tc0>
                     <AmfSut pt:description="AMF SUT">
-                        <name pt:description="10.202.100.1">${topology/resources/Emulated SUT/Port 1/IPV4_1}</name>
+                        <name pt:description="10.202.100.1">10.223.142.23</name>
                     </AmfSut>
                 </nodal_ts0_tc0>
             </SUT>
