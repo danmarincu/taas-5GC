@@ -94,6 +94,11 @@
                                 <nextHop>${topology/resources/TS 1/Port 2/IPV4 Gateway}</nextHop>
                                 <phy pt:description="eth3">${topology/resources/TS 1/Port 2/PHY name}</phy>
                             </GnbUserAddr>
+                            <NetworkHostAddrRemote>
+                                <array>
+                                    <item_0 pt:description="Remote Webserver">${inventory/resources/RemoteDataServer/ipAddress}</item_0>
+                                </array>
+                            </NetworkHostAddrRemote>
                         </tc0>
                     </ts0>
                 </TS1>
