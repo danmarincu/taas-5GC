@@ -98,7 +98,7 @@
                             <NetworkHostAddrRemote>
                                 <array>
                                      <item_0 pt:description="Index">0</item_0>
-                                    <item_1 pt:description="IP">${inventory/resources/RemoteDataServer/IpAddr}</item_1>
+                                    <item_1 pt:description="IP">${inventory/resources/RemoteDataServer/ipAddress}</item_1>
                                 </array>
                             </NetworkHostAddrRemote>
                         </tc0>
